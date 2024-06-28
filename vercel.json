@@ -9,7 +9,7 @@
     { "src": "/css/video-js", "dest": "/css/video-js" },
     { "src": "/css/vjs-styles", "dest": "/css/vjs-styles" },
     { "src": "/js/script.js", "dest": "/js/script.js" },
-    { "src": "/page", "dest": "/page.html" },
+    { "src": "/team", "dest": "/team.html" },
     { "src": "/(.*)", "dest": "/$1.html" }  
   ]
 }
