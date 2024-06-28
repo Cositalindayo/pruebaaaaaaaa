@@ -926,7 +926,8 @@ a.check-product {
 .tags-list {
     margin-top: 10px;
     padding-left: 1px;
-    
+    position: relative; 
+    top: -100px;
 
 }
 
